@@ -1,4 +1,4 @@
-# https://www.udemy.com/probability-and-statistics-for-business-and-data-science/learn/v4/t/lecture/11062490
+
 samplesCourse = [9, 10, 10, 11, 13, 15, 16, 19, 19, 21, 23, 28, 30, 33, 34, 36, 44, 45, 47, 60]
 
 class sampleSet:
